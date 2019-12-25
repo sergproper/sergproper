@@ -1,3 +1,5 @@
 # sergproper
 First
-Started at 2019-12-26 00:57 for educational purposes
+https://tutorial.djangogirls.org/ru/deploy/
+описание работы с Django:
+загрузка, создание локального сервера, настройка локальных переменных и т.п. 
